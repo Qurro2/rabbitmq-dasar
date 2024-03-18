@@ -1,1 +1,1 @@
-test rabbitmq 
+test rabbitmq nodejs 
